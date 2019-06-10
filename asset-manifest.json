@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zipcode-projec/static/css/main.9409709c.chunk.css",
+    "main.js": "/zipcode-projec/static/js/main.7e9dd698.chunk.js",
+    "main.js.map": "/zipcode-projec/static/js/main.7e9dd698.chunk.js.map",
+    "runtime~main.js": "/zipcode-projec/static/js/runtime~main.fecfd84a.js",
+    "runtime~main.js.map": "/zipcode-projec/static/js/runtime~main.fecfd84a.js.map",
+    "static/js/2.9b42cba6.chunk.js": "/zipcode-projec/static/js/2.9b42cba6.chunk.js",
+    "static/js/2.9b42cba6.chunk.js.map": "/zipcode-projec/static/js/2.9b42cba6.chunk.js.map",
+    "index.html": "/zipcode-projec/index.html",
+    "precache-manifest.9df397bfc1a5cd0c954a07f64d0b59ac.js": "/zipcode-projec/precache-manifest.9df397bfc1a5cd0c954a07f64d0b59ac.js",
+    "service-worker.js": "/zipcode-projec/service-worker.js",
+    "static/css/main.9409709c.chunk.css.map": "/zipcode-projec/static/css/main.9409709c.chunk.css.map"
+  }
+}
